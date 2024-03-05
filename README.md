@@ -40,7 +40,7 @@ Below is a collection of datasets suitable for Automatic Speech Recognition (ASR
 | Svarah[31]       | 1           | 10    | 117        | 37        | Read/Extempore       |
 | SPRING-INX[32]   | 10          | 2005  | 7609       | 16        | Read/Extempore       |
 | SPIRE-SIES[33]   | 1           | 171   | 23         | 1607      | Conversation         |
-| (IndicVoices)[https://arxiv.org/pdf/2403.01926.pdf]      | 22          | 7348  | 1639       | 16237     | Read/Extempore/Conversation |
+| [IndicVoices](https://arxiv.org/pdf/2403.01926.pdf)      | 22          | 7348  | 1639       | 16237     | Read/Extempore/Conversation |
 
 # Contribute to MahaVed
 
