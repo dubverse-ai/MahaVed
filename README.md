@@ -65,9 +65,3 @@ To get started with contributing to MahaVed, please follow these steps:
 4. **Follow Contribution Guidelines:** Please adhere to our contribution guidelines, which are detailed in the CONTRIBUTING.md file in our repository, to ensure a smooth collaboration process.
 
 Together, we can build a rich resource that accelerates innovation and inclusivity in speech technologies across a multitude of languages. Your contributions are invaluable to making MahaVed a truly comprehensive resource for the global research and development community.
-
-# Contact Us
-
-For more information, support, or to discuss potential collaborations, please contact us at varshul@dubverse.ai.
-
-Let's make MahaVed a cornerstone for speech technology research and development!
