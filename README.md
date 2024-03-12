@@ -60,7 +60,7 @@ To get started with contributing to MahaVed, please follow these steps:
 
 2. **Identify Gaps:** Look for gaps in the collection where your contributions can make a significant impact, whether it's adding a new language, enhancing dataset quality, or providing technical tools.
 
-3. **Contact Us:** Reach out to us by [creating an issue](https://github.com/YourGitHub/MahaVed/issues/new) on our GitHub repository or by sending an email to [your_email@domain.com]. Please include details about your proposed contribution and how it aligns with the goals of MahaVed.
+3. **Contact Us:** Reach out to us by [creating an issue](https://github.com/YourGitHub/MahaVed/issues/new) on our GitHub repository or by sending an email to hi@dubverse.ai Please include details about your proposed contribution and how it aligns with the goals of MahaVed.
 
 4. **Follow Contribution Guidelines:** Please adhere to our contribution guidelines, which are detailed in the CONTRIBUTING.md file in our repository, to ensure a smooth collaboration process.
 
